@@ -1,3 +1,3 @@
 # SceneTextTDRNet
 
-The dataset will be upload soon.
+The link of dataset will be updated soon.
