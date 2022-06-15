@@ -1,3 +1,3 @@
 # SceneTextTDRNet
 
-The link of dataset will be updated soon.
+Download Link: [[BaiduYun]](https://pan.baidu.com/s/106v8aVGPestTFbW7ZQKVkw), code:zm6k
